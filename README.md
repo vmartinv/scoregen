@@ -1,5 +1,5 @@
 # scoregen
-Scoreboard simulation of ACM-ICPC World Finals
+Very improvised scoreboard simulation of ACM-ICPC World Finals
 
 # Compilation
 > g++ -lhtmlcxx scoregen.cpp -o scoregen
